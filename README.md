@@ -6,7 +6,7 @@ This content can be downloaded and imported into your own copy of the
 
 The courses completed so far are:
 
-* [Cybersecurity Risk Assessment](./Cybersecurity-Risk-Assessment/index.html)
-* [Getting Hands-on with Spyderisk](./Getting-Hands-On-With-Spyderisk/index.html)
+* [Cybersecurity Risk Assessment](./Cybersecurity-Risk-Assessment/index.html?raw=1)
+* [Getting Hands-on with Spyderisk](./Getting-Hands-On-With-Spyderisk/index.html?raw=1)
 
 Moodle has instructions for [exporting and importing](https://support.skillscommons.org/documentation/Importing-and-Exporting-Files-with-Moodle.pdf) content packages.
